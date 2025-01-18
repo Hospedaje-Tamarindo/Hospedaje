@@ -107,7 +107,7 @@ nav ul li a {
     margin-bottom: 15px;
     text-transform: uppercase;
     line-height: 1.2;
-    color: #000000; /* Color naranja para h1 */
+    color: #ffffff; /* Color naranja para h1 */
 }
 
 .hero-content h2 {
@@ -115,7 +115,7 @@ nav ul li a {
     margin-bottom: 20px;
     font-weight: 500;
     line-height: 1.8;
-    color: #000000; /* Color naranja para h2 */
+    color: #ffffff; /* Color naranja para h2 */
 }
 
 .hero-content p {
@@ -124,8 +124,9 @@ nav ul li a {
     margin: 0 auto;
     line-height: 1.8;
     font-weight: 400;
-    color: #000000; /* Color naranja para el párrafo */
+    color: #ffffff; /* Color naranja para el párrafo */
 }
+
 
 
 
